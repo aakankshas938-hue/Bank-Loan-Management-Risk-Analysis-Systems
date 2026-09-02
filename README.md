@@ -1,4 +1,6 @@
 **🏦 Bank Loan Management & Risk Analysis System**
+
+
 An end-to-end Data Engineering and Analytics project that automates the loan approval lifecycle for financial institutions. This system ingests raw banking application data, applies business logic to calculate risk scores and EMIs, stores it in a normalized MySQL database, and generates interactive Excel reports and a web dashboard.
 
 📌 Project Overview
